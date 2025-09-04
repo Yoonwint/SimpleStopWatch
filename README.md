@@ -3,8 +3,18 @@ A lightweight and simple stopwatch built with HTML, CSS, and JavaScript.
 It supports basic functions like start, pause, and reset.
 
 ## 🚀 Features
-- Start / Stop the timer
-- Pause and resume
+- Start and Stop the timer
 - Reset back to 00:00:00
 - Minimal design
 - JavaScript (vanilla)
+
+## 📸 Demo
+Check demo <a href="https://yoonwint.github.io/SimpleStopWatch/" target="_blank">here</a>.
+
+## 🎯 How to Use
+- Click Start to begin timing.
+- Click Pause to stop the timer.
+- Click Reset to clear the time back to zero.
+
+
+
