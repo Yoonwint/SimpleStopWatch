@@ -7,4 +7,4 @@ Start / Stop the timer
 - Pause and resume
 - Reset back to 00:00:00
 - Minimal design
-- VanillaJavaScript
+- JavaScript (vanilla)
