@@ -9,7 +9,7 @@ It supports basic functions like start, pause, and reset.
 - JavaScript (vanilla)
 
 ## 📸 Demo
-Check demo <a href="https://yoonwint.github.io/SimpleStopWatch/" target="_blank">here</a>.
+Check demo <a href="https://yoonwint.github.io/SimpleStopWatch/">here</a>.
 
 ## 🎯 How to Use
 - Click Start to begin timing.
