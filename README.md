@@ -8,13 +8,13 @@ It supports basic functions like start, pause, and reset.
 - Minimal design
 - JavaScript (vanilla)
 
-## 📸 Demo
-Check demo <a href="https://yoonwint.github.io/SimpleStopWatch/">here</a>.
-
 ## 🎯 How to Use
 - Click Start to begin timing.
 - Click Pause to stop the timer.
 - Click Reset to clear the time back to zero.
+
+## 📸 Demo
+Check demo <a href="https://yoonwint.github.io/SimpleStopWatch/">here</a>.
 
 
 
